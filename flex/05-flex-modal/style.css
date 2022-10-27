@@ -39,9 +39,6 @@ body {
   flex: 0 0 auto;
 }
 
-.modal-body {
-}
-
 .modal-header {
   display: flex;
   justify-content: space-between;
